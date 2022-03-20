@@ -16,3 +16,32 @@ You can click the Preview link to take a look at your changes.
       Eat-->Sleep;
       Sleep-->Code;
 ```
+### 🔥 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 
+2. 
+3. 
+4.
+5.
+<!--END_SECTION:activity-->
+### 📺 Last Youtube:
+
+<!-- YOUTUBE:START -->
+- 
+- 
+- 
+- 
+- 
+<!-- YOUTUBE:END -->
+<details>
+  <summary>�Latest content</summary>
+
+<!-- BLOG-POST-LIST:START -->
+-
+-
+-
+-
+-
+<!-- BLOG-POST-LIST:END -->
+  <details>
