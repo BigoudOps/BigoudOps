@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- 
-- 
-- 
-- 
-- 
+- [dernier épisode sur ce flux- John ManchotCast &lpar;made with Spreaker&rpar;](https://www.youtube.com/watch?v=J73IX1faNfA)
+- [eggs huawei android 8](https://www.youtube.com/watch?v=SC5zfie0hd0)
+- [Episode 39 - John ManchotCast la suite du Dev &lpar;made with Spreaker&rpar;](https://www.youtube.com/watch?v=X6nS3IbHg8w)
+- [Episode 38 - John ManchotCast et la programmation html5 css3 &lpar;made with Spreaker&rpar;](https://www.youtube.com/watch?v=zpNfZxyzIiI)
+- [Episode 37 - John ManchotCast et le jus est revenu &lpar;made with Spreaker&rpar;](https://www.youtube.com/watch?v=TBpIZKNmpEc)
 <!-- YOUTUBE:END -->
 <details>
   <summary>�Latest content</summary>
