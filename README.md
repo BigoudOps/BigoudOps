@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BigoudOps
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Linux,Open Source & Podcasting
+- 🌱 I’m currently learning python & bash
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ? Well check below ...
 
 <!---
 BigoudOps/BigoudOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 - 
 <!-- YOUTUBE:END -->
 <details>
-  <summary>�Latest content</summary>
+  <summary>Latest content</summary>
 
 <!-- BLOG-POST-LIST:START -->
 -
