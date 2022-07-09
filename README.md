@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 
-2.
-3.
-4. 
-5. 
+1. 🎉 Merged PR [#2](https://github.com/BigoudOps/BigoudOps/pull/2) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+2. 💪 Opened PR [#2](https://github.com/BigoudOps/BigoudOps/pull/2) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+3. 💪 Opened PR [#2](https://github.com/JohnAOSC/JohnAOSC/pull/2) in [JohnAOSC/JohnAOSC](https://github.com/JohnAOSC/JohnAOSC)
+4. 🎉 Merged PR [#1](https://github.com/BigoudOps/BigoudOps/pull/1) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+5. 💪 Opened PR [#1](https://github.com/BigoudOps/BigoudOps/pull/1) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
 <!--END_SECTION:activity-->
 ### 📺 Last Youtube:
 
