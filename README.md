@@ -54,10 +54,10 @@ You can click the Preview link to take a look at your changes.
   <summary>Latest content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Retour d’expérience Huawei Matebook D15 &lpar;sous linux&rpar;](https://bigoudops.fr/retour-dexperience-huawei-matebook-d15-sous-linux/)
 - [Nouvelle année nouveaux projets](https://bigoudops.fr/nouvelle-annee-nouveaux-projets/)
 - [Bientôt 5 ans de Podcasts](https://bigoudops.fr/bientot-5-ans-de-podcasts/)
 - [Personnaliser un thème complet pour Ventoy](https://bigoudops.fr/personnaliser-un-theme-complet-pour-ventoy/)
 - [help me , ma souris ne clique plus](https://bigoudops.fr/help-me-ma-souris-ne-clique-plus/)
-- [Contribuer facilement à OpenStreetMap](https://bigoudops.fr/contribuer-facilement-a-openstreetmap/)
 <!-- BLOG-POST-LIST:END -->
   <details>
