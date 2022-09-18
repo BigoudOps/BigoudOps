@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#181](https://github.com/pcarion/podcastfr/issues/181) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
-2. ❗️ Opened issue [#180](https://github.com/pcarion/podcastfr/issues/180) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
-3. ❗️ Closed issue [#179](https://github.com/pcarion/podcastfr/issues/179) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
-4. ❗️ Opened issue [#179](https://github.com/pcarion/podcastfr/issues/179) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
-5. 🎉 Merged PR [#2](https://github.com/BigoudOps/BigoudOps/pull/2) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+1. 💪 Opened PR [#1](https://github.com/JohnAOSC/fedorapostinstall/pull/1) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
+2. ❗️ Opened issue [#181](https://github.com/pcarion/podcastfr/issues/181) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
+3. ❗️ Opened issue [#180](https://github.com/pcarion/podcastfr/issues/180) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
+4. ❗️ Closed issue [#179](https://github.com/pcarion/podcastfr/issues/179) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
+5. ❗️ Opened issue [#179](https://github.com/pcarion/podcastfr/issues/179) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
 <!--END_SECTION:activity-->
 ### 📺 Last Youtube:
 
