@@ -26,12 +26,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigoudOps&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-```mermaid
-  graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-```
+
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -41,6 +36,16 @@ You can click the Preview link to take a look at your changes.
 4. ❗️ Opened issue [#181](https://github.com/pcarion/podcastfr/issues/181) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
 5. ❗️ Opened issue [#180](https://github.com/pcarion/podcastfr/issues/180) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
 <!--END_SECTION:activity-->
+
+<!-- BLOG-POST-LIST:START -->
+- [Le lancement d’un nouveau Podcast.](https://bigoudops.fr/le-lancement-dun-nouveau-podcast/)
+- [Retour de l’Open Source Expérience 2022](https://bigoudops.fr/retour-de-lopen-source-experience-2022/)
+- [Configurer sa clé Nitrokey sous Ubuntu](https://bigoudops.fr/configurer-sa-cle-nitrokey-sous-ubuntu/)
+- [Cartoucheur lowcost sous Linux](https://bigoudops.fr/cartoucheur-lowcost-sous-linux/)
+- [Retour d’expérience Huawei Matebook D15 &lpar;sous linux&rpar;](https://bigoudops.fr/retour-dexperience-huawei-matebook-d15-sous-linux/)
+<!-- BLOG-POST-LIST:END -->
+  <details>
+
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
@@ -52,12 +57,3 @@ You can click the Preview link to take a look at your changes.
 <!-- YOUTUBE:END -->
 <details>
   <summary>Latest content</summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [Le lancement d’un nouveau Podcast.](https://bigoudops.fr/le-lancement-dun-nouveau-podcast/)
-- [Retour de l’Open Source Expérience 2022](https://bigoudops.fr/retour-de-lopen-source-experience-2022/)
-- [Configurer sa clé Nitrokey sous Ubuntu](https://bigoudops.fr/configurer-sa-cle-nitrokey-sous-ubuntu/)
-- [Cartoucheur lowcost sous Linux](https://bigoudops.fr/cartoucheur-lowcost-sous-linux/)
-- [Retour d’expérience Huawei Matebook D15 &lpar;sous linux&rpar;](https://bigoudops.fr/retour-dexperience-huawei-matebook-d15-sous-linux/)
-<!-- BLOG-POST-LIST:END -->
-  <details>
