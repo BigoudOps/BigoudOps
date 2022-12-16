@@ -54,10 +54,10 @@ You can click the Preview link to take a look at your changes.
   <summary>Latest content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Retour de l’Open Source Expérience 2022](https://bigoudops.fr/retour-de-lopen-source-experience-2022/)
 - [Configurer sa clé Nitrokey sous Ubuntu](https://bigoudops.fr/configurer-sa-cle-nitrokey-sous-ubuntu/)
 - [Cartoucheur lowcost sous Linux](https://bigoudops.fr/cartoucheur-lowcost-sous-linux/)
 - [Retour d’expérience Huawei Matebook D15 &lpar;sous linux&rpar;](https://bigoudops.fr/retour-dexperience-huawei-matebook-d15-sous-linux/)
 - [Nouvelle année nouveaux projets](https://bigoudops.fr/nouvelle-annee-nouveaux-projets/)
-- [Bientôt 5 ans de Podcasts](https://bigoudops.fr/bientot-5-ans-de-podcasts/)
 <!-- BLOG-POST-LIST:END -->
   <details>
