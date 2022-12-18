@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JohnAOSC/fedorapostinstall/pull/2) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
-2. 💪 Opened PR [#2](https://github.com/JohnAOSC/fedorapostinstall/pull/2) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
-3. 💪 Opened PR [#1](https://github.com/JohnAOSC/fedorapostinstall/pull/1) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
-4. ❗️ Opened issue [#181](https://github.com/pcarion/podcastfr/issues/181) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
-5. ❗️ Opened issue [#180](https://github.com/pcarion/podcastfr/issues/180) in [pcarion/podcastfr](https://github.com/pcarion/podcastfr)
+1. 🎉 Merged PR [#3](https://github.com/JohnAOSC/fedorapostinstall/pull/3) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
+2. 💪 Opened PR [#3](https://github.com/JohnAOSC/fedorapostinstall/pull/3) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
+3. 💪 Opened PR [#20](https://github.com/VandalByte/dedsec-grub2-theme/pull/20) in [VandalByte/dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme)
+4. 🎉 Merged PR [#1](https://github.com/BigoudOps/fedorapostinstall/pull/1) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
+5. 💪 Opened PR [#1](https://github.com/BigoudOps/fedorapostinstall/pull/1) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
