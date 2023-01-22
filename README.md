@@ -31,11 +31,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 
-2. 
-3. 
-4. 
-5. 
+1. 🎉 Merged PR [#3](https://github.com/BigoudOps/BigoudOps/pull/3) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+2. 💪 Opened PR [#3](https://github.com/BigoudOps/BigoudOps/pull/3) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+3. 🎉 Merged PR [#3](https://github.com/JohnAOSC/fedorapostinstall/pull/3) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
+4. 💪 Opened PR [#3](https://github.com/JohnAOSC/fedorapostinstall/pull/3) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
+5. 💪 Opened PR [#20](https://github.com/VandalByte/dedsec-grub2-theme/pull/20) in [VandalByte/dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
