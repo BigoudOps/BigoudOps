@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 
-2. 
+1. 🎉 Merged PR [#4](https://github.com/BigoudOps/BigoudOps/pull/4) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
+2. 💪 Opened PR [#4](https://github.com/BigoudOps/BigoudOps/pull/4) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
 3. 
 4. 
 5. 
