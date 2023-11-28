@@ -31,11 +31,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/BigoudOps/BigoudOps/pull/4) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
-2. 💪 Opened PR [#4](https://github.com/BigoudOps/BigoudOps/pull/4) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
-3. 
-4. 
-5. 
+1. 💪 Opened PR [#478](https://github.com/novaspirit/pi-hosted/pull/478) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
+2. ❌ Reopened PR [#178](https://github.com/pi-hosted/pi-hosted/pull/178) in [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted)
+3. ❌ Closed PR [#178](https://github.com/pi-hosted/pi-hosted/pull/178) in [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted)
+4. 🎉 Merged PR [#4](https://github.com/BigoudOps/joplin-serveradd/pull/4) in [BigoudOps/joplin-serveradd](https://github.com/BigoudOps/joplin-serveradd)
+5. 💪 Opened PR [#4](https://github.com/BigoudOps/joplin-serveradd/pull/4) in [BigoudOps/joplin-serveradd](https://github.com/BigoudOps/joplin-serveradd)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
