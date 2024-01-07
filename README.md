@@ -31,11 +31,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/BigoudOps/fedorapostinstall/issues/2#issuecomment-1848433210) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
-2. 🔒 Closed issue [#2](https://github.com/BigoudOps/fedorapostinstall/issues/2) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
-3. 💪 Opened PR [#478](https://github.com/novaspirit/pi-hosted/pull/478) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
-4. ❌ Reopened PR [#178](https://github.com/pi-hosted/pi-hosted/pull/178) in [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted)
-5. ❌ Closed PR [#178](https://github.com/pi-hosted/pi-hosted/pull/178) in [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted)
+1. 🎉 Merged PR [#5](https://github.com/BigoudOps/joplin-serveradd/pull/5) in [BigoudOps/joplin-serveradd](https://github.com/BigoudOps/joplin-serveradd)
+2. 💪 Opened PR [#5](https://github.com/BigoudOps/joplin-serveradd/pull/5) in [BigoudOps/joplin-serveradd](https://github.com/BigoudOps/joplin-serveradd)
+3. 🗣 Commented on [#2](https://github.com/BigoudOps/fedorapostinstall/issues/2#issuecomment-1848433210) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
+4. 🔒 Closed issue [#2](https://github.com/BigoudOps/fedorapostinstall/issues/2) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
+5. 💪 Opened PR [#478](https://github.com/novaspirit/pi-hosted/pull/478) in [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
