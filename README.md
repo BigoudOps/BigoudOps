@@ -50,11 +50,11 @@ You can click the Preview link to take a look at your changes.
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Le durcissement de machine sous Linux](https://www.youtube.com/watch?v=HC8licTQHNg)
 - [information pour 2024](https://www.youtube.com/watch?v=C3fna-JLQhQ)
 - [Nous parlons de nos options utilisé avec grep](https://www.youtube.com/watch?v=dnoJxrFj63k)
 - [Les raccourcis Bash](https://www.youtube.com/watch?v=O1y80AXdqDs)
 - [la commande ls avec son paramètre -l](https://www.youtube.com/watch?v=eRZo_DjpFKM)
-- [La commande ls](https://www.youtube.com/watch?v=QcP-rmZKHvg)
 <!-- YOUTUBE:END -->
 <details>
   <summary>Latest content</summary>
