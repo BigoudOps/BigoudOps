@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigoudOps
+- 👋 Hi, I’m @BigoudOps check my githubIO pages : [BigoudOps.github.io](https://bigoudops.github.io/) 😜
 - 👀 I’m interested in Linux,Open Source & Podcasting
 - 🌱 I’m currently learning python & bash
 - 💞️ I’m looking to collaborate on ...
