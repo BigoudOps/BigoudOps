@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/BigoudOps/vimSkeleton/pull/7) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
+1. 🎉 Merged PR [#5](https://github.com/BigoudOps/BigoudOps/pull/5) in [BigoudOps/BigoudOps](https://github.com/BigoudOps/BigoudOps)
 2. 💪 Opened PR [#7](https://github.com/BigoudOps/vimSkeleton/pull/7) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
 3. 🎉 Merged PR [#6](https://github.com/BigoudOps/vimSkeleton/pull/6) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
 4. 🎉 Merged PR [#5](https://github.com/BigoudOps/vimSkeleton/pull/5) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
