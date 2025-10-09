@@ -1,3 +1,4 @@
+[![An image of @bigoudops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bigoudops)](https://holopin.io/@bigoudops)
 - 👋 Hi, I’m @BigoudOps check my githubIO pages : [BigoudOps.github.io](https://bigoudops.github.io/) 😜
 - 👀 I’m interested in Linux,Open Source & Podcasting
 - 🌱 I’m currently learning python & bash
