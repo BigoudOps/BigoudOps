@@ -32,11 +32,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 🇬🇧](https://github.com/BigoudOps/template4JoplinTemplates/releases/tag/v1.0.0-en) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
-2. 🚀 Published release [v1.0.0 🇫🇷](https://github.com/BigoudOps/template4JoplinTemplates/releases/tag/v1.0.0-fr) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
-3. 🎉 Merged PR [#3](https://github.com/BigoudOps/fedorapostinstall/pull/3) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
-4. 💪 Opened PR [#3](https://github.com/BigoudOps/fedorapostinstall/pull/3) in [BigoudOps/fedorapostinstall](https://github.com/BigoudOps/fedorapostinstall)
-5. 🎉 Merged PR [#4](https://github.com/JohnAOSC/fedorapostinstall/pull/4) in [JohnAOSC/fedorapostinstall](https://github.com/JohnAOSC/fedorapostinstall)
+1. ❌ Reopened PR [#10](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
+2. ❌ Closed PR [#10](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
+3. 💪 Opened PR [#10](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
+4. 💪 Opened PR [#9](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
+5. 💪 Opened PR [#6](undefined) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
