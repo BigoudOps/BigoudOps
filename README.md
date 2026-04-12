@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#10](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
-2. ❌ Closed PR [#10](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
-3. 💪 Opened PR [#10](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
-4. 💪 Opened PR [#9](undefined) in [BigoudOps/vimSkeleton](https://github.com/BigoudOps/vimSkeleton)
-5. 💪 Opened PR [#6](undefined) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
+1. 🗣 Commented on [#35](https://github.com/JordanVoets/joplin-audio-transcriber/issues/35#issuecomment-4213202774) in [JordanVoets/joplin-audio-transcriber](https://github.com/JordanVoets/joplin-audio-transcriber)
+2. 🗣 Commented on [#1](https://github.com/guillaumevende/resume-articles/pull/1#issuecomment-4212842005) in [guillaumevende/resume-articles](https://github.com/guillaumevende/resume-articles)
+3. 💪 Opened PR [#1](https://github.com/guillaumevende/resume-articles/pull/1) in [guillaumevende/resume-articles](https://github.com/guillaumevende/resume-articles)
+4. 🎉 Merged PR [#8](https://github.com/BigoudOps/template4JoplinTemplates/pull/8) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
+5. 💪 Opened PR [#8](https://github.com/BigoudOps/template4JoplinTemplates/pull/8) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
