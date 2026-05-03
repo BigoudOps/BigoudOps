@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
 <!--END_SECTION:activity-->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ouverture de BigoudOps Links](https://go.bigoudops.fr/)
-- [ParlonsLinuxFr](https://go.bigoudops.fr/podcast)
+- [Favicon Linux BigoudOps](https://bigoudops.fr/)
+- [Wall of Fame BigoudOps](https://bigoudops.fr/wall-of-fame/)
 - [Accueil BigoudOps](https://bigoudops.fr/)
 <!-- BLOG-POST-LIST:END -->
   <details>
