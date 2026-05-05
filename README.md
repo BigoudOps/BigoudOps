@@ -43,10 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- BLOG-POST-LIST:START -->
 - [Accueil BigoudOps](https://bigoudops.fr/)
-- [Support de présentation Libre en Fête 2026](https://bigoudops.fr/supports/libre-en-fete-2026/)
-- [Supports de présentation BigoudOps](https://bigoudops.fr/supports/)
-- [Boîte à outils podcast BigoudOps](https://bigoudops.fr/podcast-tools/)
 - [Favicon Linux BigoudOps](https://bigoudops.fr/)
+- [Wall of Fame BigoudOps](https://bigoudops.fr/wall-of-fame/)
 <!-- BLOG-POST-LIST:END -->
   <details>
 
