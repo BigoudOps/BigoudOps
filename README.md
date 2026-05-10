@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- BLOG-POST-LIST:START -->
 - [Accueil BigoudOps](https://bigoudops.fr/)
-- [Favicon Linux BigoudOps](https://bigoudops.fr/)
 - [Wall of Fame BigoudOps](https://bigoudops.fr/wall-of-fame/)
+- [Favicon Linux BigoudOps](https://bigoudops.fr/)
 <!-- BLOG-POST-LIST:END -->
   <details>
 
