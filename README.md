@@ -44,7 +44,9 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START -->
 - [Accueil BigoudOps](https://bigoudops.fr/)
 - [Wall of Fame BigoudOps](https://bigoudops.fr/wall-of-fame/)
-- [Favicon Linux BigoudOps](https://bigoudops.fr/)
+- [Boîte à outils podcast BigoudOps](https://bigoudops.fr/podcast-tools/)
+- [Supports de présentation BigoudOps](https://bigoudops.fr/supports/)
+- [Support de présentation Libre en Fête 2026](https://bigoudops.fr/supports/libre-en-fete-2026/)
 <!-- BLOG-POST-LIST:END -->
   <details>
 
