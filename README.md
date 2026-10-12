@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning python & bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Well check below ...
+- <img src="/github-metrics.svg" alt="Metrics" width="100%">
 - [![Join the Discord channel](https://img.shields.io/static/v1.svg?label=%20Rejoignez-moi%20sur%20Discordl&message=%F0%9F%8E%86&color=7289DA&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.gg/bfB6Ve6)
 - [![Join the Discord channel](https://img.shields.io/static/v1.svg?label=%20Rejoignez-moi%20sur%20Discordl&message=%F0%9F%8E%86&color=7289DA&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.gg/MrgtTSPS7j)
 [![Matrix Chat](https://img.shields.io/matrix/ParlonsLinuxFR:matrix.org?label=Rejoindre%20le%20salon%20Matrix&logo=matrix&style=for-the-badge&color=brightgreen)](https://matrix.to/#/#ParlonsLinuxFR:matrix.org)
