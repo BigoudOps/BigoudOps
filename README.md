@@ -36,8 +36,8 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/V4bel/dirtyfrag/issues/45#issuecomment-4409314895) in [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
-2. 🗣 Commented on [#45](https://github.com/V4bel/dirtyfrag/issues/45#issuecomment-4408175705) in [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+1. ❌ Merged PR [#4](undefined) in [numeodev/newsletters-tech-fr-a-la-french](https://github.com/numeodev/newsletters-tech-fr-a-la-french)
+2. 💪 Opened PR [#4](undefined) in [numeodev/newsletters-tech-fr-a-la-french](https://github.com/numeodev/newsletters-tech-fr-a-la-french)
 3. 💪 Opened PR [#1](https://github.com/guillaumevende/resume-articles/pull/1) in [guillaumevende/resume-articles](https://github.com/guillaumevende/resume-articles)
 4. 🎉 Merged PR [#8](https://github.com/BigoudOps/template4JoplinTemplates/pull/8) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
 5. 💪 Opened PR [#8](https://github.com/BigoudOps/template4JoplinTemplates/pull/8) in [BigoudOps/template4JoplinTemplates](https://github.com/BigoudOps/template4JoplinTemplates)
